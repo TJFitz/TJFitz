@@ -3,8 +3,13 @@
     
 </div>
 
+<<<<<<< HEAD
 <p align="center">
   <font size="+1">Hello World</font>
+=======
+<p style="font-size: 64px" align="center">
+  # Hello World
+>>>>>>> cc0854ec1cd17747f2bbda9625ae2e94e3e8c10a
 </p>
 
 <div align="center">
@@ -40,7 +45,7 @@
   </a>  
 </div>
 
-<p style="font-size: 2vh" align="center">
+<p style="font-size: 24px" align="center">
   My name is TJ Fitzpatrick and I'm a hackerman in training!
 </p>
 
