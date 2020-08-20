@@ -3,14 +3,7 @@
     
 </div>
 
-<<<<<<< HEAD
-<p align="center">
-  <font size="+1">Hello World</font>
-=======
-<p style="font-size: 64px" align="center">
-  # Hello World
->>>>>>> cc0854ec1cd17747f2bbda9625ae2e94e3e8c10a
-</p>
+<font size="+1">Hello World</font>
 
 <div align="center">
 <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
