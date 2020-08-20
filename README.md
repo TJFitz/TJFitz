@@ -38,7 +38,7 @@
   </a>  
 </div>
 
-### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; My name is TJ Fitzpatrick and I'm a hackerman in training!
+### &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; My name is TJ Fitzpatrick and I'm a hackerman in training!
 
 ![](https://github-readme-stats.vercel.app/api?username=TJFitz&show_icons=true&hide_border=true)
 
