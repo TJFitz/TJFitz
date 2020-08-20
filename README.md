@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  # My name is TJ Fitzpatrick and I'm a hackerman in training!
+  My name is TJ Fitzpatrick and I'm a hackerman in training!
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=TJFitz&show_icons=true&hide_border=true)
