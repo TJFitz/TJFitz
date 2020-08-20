@@ -4,7 +4,9 @@
 
 # &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Hello World
 
-### My name is TJ Fitzpatrick and I'm a hackerman in training
+![](https://img.shields.io/badge/Language-Javascript-orange?style=plastic) ![](https://img.shields.io/badge/Language-HTML-blue?style=plastic) ![](https://img.shields.io/badge/Language-CSS-blueviolet?style=plastic) ![](https://img.shields.io/badge/Technology-Node-brightgreen?style=plastic) ![](https://img.shields.io/badge/Technology-JQuery-orange?style=plastic) ![](https://img.shields.io/badge/Technology-Express-brightgreen?style=plastic)
+
+### &emsp ;&emsp; &emsp; My name is TJ Fitzpatrick and I'm a hackerman in training
 
 <!--
 **TJFitz/TJFitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
