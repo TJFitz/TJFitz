@@ -3,7 +3,9 @@
     
 </div>
 
-<font size="+1">Hello World</font>
+<p align="center">
+  Hello World
+</p>
 
 <div align="center">
 <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
@@ -38,7 +40,7 @@
   </a>  
 </div>
 
-<p style="font-size: 24px" align="center">
+<p align="center">
   My name is TJ Fitzpatrick and I'm a hackerman in training!
 </p>
 
