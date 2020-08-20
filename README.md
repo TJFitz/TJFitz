@@ -1,6 +1,8 @@
-&emsp; &emsp; &emsp; &emsp;![](./assets/hackerman.gif)
+<p align="center">
+  <img src="./assets/hackerman.gif" alt=""/>
+</p>
 
-# &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Hello World
+# <center>Hello World</center>
 
 <!--
 **TJFitz/TJFitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
