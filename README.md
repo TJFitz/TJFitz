@@ -4,6 +4,8 @@
 
 # &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Hello World
 
+### My name is TJ Fitzpatrick and I'm a hackerman in training
+
 <!--
 **TJFitz/TJFitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
