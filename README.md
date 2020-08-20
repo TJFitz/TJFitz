@@ -45,7 +45,7 @@
 <a href="mailto:tjfitz@comcast.net">
     <img src="./assets/svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
-   <a href="https://www.linkedin.com/in/tj-fitzpatrick-4a07941a8/">
+   <a target="_blank" href="https://www.linkedin.com/in/tj-fitzpatrick-4a07941a8/">
     <img src="./assets/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 </div>
