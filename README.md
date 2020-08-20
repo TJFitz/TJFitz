@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="TJFitz/assets/hackerman.gif" alt=""/>
+  ![](./assets/hackerman.gif)
 </div>
 
 # &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Hello World
