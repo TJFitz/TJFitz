@@ -3,7 +3,7 @@
     
 </div>
 
-<p style="font-size: 36px" align="center">
+<p font-size="36px" align="center">
   Hello World
 </p>
 
