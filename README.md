@@ -3,7 +3,7 @@
     
 </div>
 
-# &emsp; &emsp; &emsp; Hello World!
+# &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Hello World!
 
 <div align="center">
 <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
@@ -38,7 +38,7 @@
   </a>  
 </div>
 
-### &emsp; &emsp; My name is TJ Fitzpatrick and I'm a hackerman in training!
+### &emsp; &emsp; &emsp; &emsp; &emsp; My name is TJ Fitzpatrick and I'm a hackerman in training!
 
 ![](https://github-readme-stats.vercel.app/api?username=TJFitz&show_icons=true&hide_border=true)
 
