@@ -3,7 +3,7 @@
     
 </div>
 
-<p style="font-size: 4vh" align="center">
+<p style="font-size: 36px" align="center">
   Hello World
 </p>
 
@@ -40,7 +40,7 @@
   </a>  
 </div>
 
-<p style="font-size: 2vh" align="center">
+<p style="font-size: 24px" align="center">
   My name is TJ Fitzpatrick and I'm a hackerman in training!
 </p>
 
