@@ -3,8 +3,8 @@
     
 </div>
 
-<p style="font-size: 4vh" align="center">
-  Hello World
+<p align="center">
+  <font size="+1">Hello World</font>
 </p>
 
 <div align="center">
