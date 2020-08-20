@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TJFitz/TJFitz/assets/hackerman.gif" alt=""/>
+  <img src="TJFitz/TJFitz/assets/hackerman.gif" alt=""/>
 </div>
 
 # &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; Hello World
