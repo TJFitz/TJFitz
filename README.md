@@ -40,9 +40,9 @@
   </a>  
 </div>
 
-<p align="center" markdown="1">
+<div markdown="1">
   # My name is TJ Fitzpatrick and I'm a hackerman in training!
-</p>
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=TJFitz&show_icons=true&hide_border=true)
 
