@@ -3,10 +3,6 @@
     
 </div>
 
-<p align="center">
-    Hello World!
-</p>
-
 <div align="center">
 <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
     <img src="https://github.com/TJFitz/TJFitz/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -39,6 +35,8 @@
     <img src="https://github.com/TJFitz/TJFitz/blob/master/assets/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
   </a>  
 </div>
+
+
 
 <p align="center">
     My name is TJ Fitzpatrick and I'm a hackerman in training!
