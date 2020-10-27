@@ -4,6 +4,9 @@
 </div>
 
 <div align="center">
+      <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
 <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
     <img src="https://github.com/TJFitz/TJFitz/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>
